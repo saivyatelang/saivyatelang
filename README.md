@@ -1,9 +1,6 @@
 ## Hi, I'm Saivya Telang 👋
 
-<!--
-**saivyatelang/saivyatelang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Finance and BAIT (Business Analytics & Information Technology) student at Rutgers University, passionate about applying AI and data analytics to solve real-world business problems.
+## Finance and BAIT (Business Analytics & Information Technology) student at Rutgers University, passionate about applying AI and data analytics to solve real-world business problems.
 
 **Currently:**
 - US Pricing & Economics Intern at Bristol Myers Squibb
