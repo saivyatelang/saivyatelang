@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Saivya Telang 👋
 
 <!--
 **saivyatelang/saivyatelang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Finance and BAIT (Business Analytics & Information Technology) student at Rutgers University, passionate about applying AI and data analytics to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**
+- US Pricing & Economics Intern at Bristol Myers Squibb
+- AI Fellow at Break Through Tech
+- Student at Rutgers Business School
+
+**Interests:** Machine Learning, Business Analytics, Healthcare Analytics, Data Science, Forecasting, and AI Applications in Business
+
+**Coding Languages:** Python, R, SQL, Java, and JavaScript
+
+**Tools:** Excel, Power BI, Power Automate, Microsoft Access, and Tableau
+
+**LinkedIn:** https://www.linkedin.com/in/saivya-t-834960337/
+
+**Email:** saivya.telang@rutgers.edu
