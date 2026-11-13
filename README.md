@@ -2,8 +2,8 @@
 
 ## Finance and BAIT (Business Analytics & Information Technology) student at Rutgers University, passionate about applying AI and data analytics to solve real-world business problems.
 
-**Currently:**
-- US Pricing & Economics Intern at Bristol Myers Squibb
+**About Me:**
+- Prev. US Pricing & Economics Intern at Bristol Myers Squibb
 - AI Fellow at Break Through Tech
 - Student at Rutgers Business School
 
