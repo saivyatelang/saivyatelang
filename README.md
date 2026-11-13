@@ -9,7 +9,7 @@
 
 **Interests:** Machine Learning, Business Analytics, Healthcare Analytics, Data Science, Forecasting, and AI Applications in Business
 
-**Coding Languages:** Python, R, SQL, Java, and JavaScript
+**Coding Languages:** SQL, Python, R, SQL, Java, and JavaScript
 
 **Tools:** Excel, Power BI, Power Automate, Microsoft Access, and Tableau
 
